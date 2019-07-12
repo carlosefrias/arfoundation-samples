@@ -45,3 +45,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: QRCode
     m_Texture: {fileID: 2800000, guid: a6fd8503774c0402aa403884f5b77f39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5397031031547395222
+      m_GuidHigh: 11709983307769478541
+    m_SerializedTextureGuid:
+      m_GuidLow: 2694459272129150565
+      m_GuidHigh: 4840918253780224616
+    m_Size: {x: 0.5, y: 0.32763264}
+    m_SpecifySize: 1
+    m_Name: drone
+    m_Texture: {fileID: 2800000, guid: a103fe65a46e2564684a46e780652e43, type: 3}
